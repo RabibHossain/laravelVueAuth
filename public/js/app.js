@@ -19603,9 +19603,6 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
           while (1) {
             switch (_context.prev = _context.next) {
               case 0:
-                console.log(form);
-
-              case 1:
               case "end":
                 return _context.stop();
             }
